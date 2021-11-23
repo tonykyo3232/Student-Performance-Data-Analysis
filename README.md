@@ -17,4 +17,4 @@ Progress:
 
 * Using KNN to analyze the dataset based on the 5 models.
 * Using Decision Tree Classifier to analyze the dataset based on the 5 models.
-* Planning to use Logistic Regression to analyze the dataset based on the 5 models.
+* Using VotingClassifier which contains these classifiers: KNN, Decision Tree, Logistic Regression, Random Forest, to analyze the dataset based on the 5 models.
