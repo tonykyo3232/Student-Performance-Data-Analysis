@@ -1,8 +1,8 @@
 ## Accuray in each model:
 
 ### model1 highest accuracy:
-* model accuracy: 0.3 in hard voting
-* model accuracy: 0.26 in soft voting
+* model accuracy: 0.30 in hard voting
+* model accuracy: 0.27 in soft voting
 
 ### model2 highest accuracy:
 * model accuracy: 0.25 in hard voting
