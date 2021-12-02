@@ -1,21 +1,21 @@
 ## Accuray in each model:
 
 ### model1 highest accuracy:
-* model accuracy: 0.34 in hard voting
-* model accuracy: 0.34 in soft voting
+* Model accuracy: 0.67 with Cross Validation
+* Model accuracy: 0.34 without Cross Validation
 
 ### model2 highest accuracy:
-* model accuracy: 0.27 in hard voting
-* model accuracy: 0.27 in soft voting
+* Model accuracy: 0.64 with Cross Validation
+* Model accuracy: 0.28 without Cross Validation
 
 ### model3 highest accuracy:
-* model accuracy: 0.70 in hard voting
-* model accuracy: 0.71 in soft voting
+* Model accuracy: 0.85 with Cross Validation
+* Model accuracy: 0.71 without Cross Validation
 
 ### model4 highest accuracy:
-* model accuracy: 0.68 in hard voting
-* model accuracy: 0.68 in soft voting
+* Model accuracy: 0.86 with Cross Validation
+* Model accuracy: 0.71 without Cross Validation
 
 ### model5 highest accuracy:
-* model accuracy: 0.34 in hard voting
-* model accuracy: 0.34 in soft voting
+* Model accuracy: 0.67 with Cross Validation
+* Model accuracy: 0.36 without Cross Validation
